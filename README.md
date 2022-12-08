@@ -1,3 +1,3 @@
-# ISML_2022
-Private Repo on ISML Assignment
+# Machine Learning Code
+Private Repo on ISML Assignment  consisting of different algorithm
 Files from Assignment final submission
